@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @E1306WebSolution
 - 👀 I’m interested in Digital Marketing
-- 🌱 I’m currently run an Agency which cater in Next JS and React JS
+- 🌱 I’m currently run an Agency which cater in Next JS , React JS, Laravel, Drupal and jQuery.
 - 💞️ I’m looking to collaborate on increase your online growth
 - 📫 How to reach me +91-96254-73374
 - 😄 Pronouns: ...
